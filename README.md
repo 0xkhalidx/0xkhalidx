@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RedeemHub**
 
-- 🌱 I’m currently learning **Front-end development**
+- 🌱 I’m currently learning **Front-end development** / **Designing**
 
 - 📫 How to reach me **k.vash080@gmail.com**
 
