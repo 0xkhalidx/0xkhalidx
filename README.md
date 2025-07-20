@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Front-end development** / **Designing**
 
-- 📫 How to reach me **k.vash080@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
